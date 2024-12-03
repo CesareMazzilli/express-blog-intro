@@ -18,5 +18,5 @@ app.get("/bacheca", (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log("Server in ascolto"); 
+    console.log("Server in ascolto");
 });
